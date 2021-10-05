@@ -1,0 +1,8 @@
+# vscode
+.vscode
+#mac os
+.DS_STORE
+#compiled files,objects
+*.o
+*.out
+*.exe
